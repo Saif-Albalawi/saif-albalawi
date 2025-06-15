@@ -8,8 +8,7 @@ I’ve earned the **eJPT certification** and I’m currently preparing for the *
 
 ## 🎓 Education  
 Graduate of the Saudi Electronic University  
-<img src="https://i.imgur.com/h7TxU2r.png" alt="SEU Logo" width="120"/>
-
+**Bachelor’s Degree in Information Technology**
 
 ## 📜 Certifications  
 - eJPT (eLearnSecurity Junior Penetration Tester)  
