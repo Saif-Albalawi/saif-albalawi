@@ -1,4 +1,5 @@
 # Saif Albalawi
+![eJPT Certified](https://img.shields.io/badge/eJPT-Certified-blueviolet?style=flat-square&logo=tryhackme)
 
 ## 👋 About Me  
 IT graduate with a strong interest in cybersecurity.  
